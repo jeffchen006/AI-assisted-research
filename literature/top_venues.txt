@@ -1,0 +1,78 @@
+# Venue allowlist (one entry per line). Matching is substring-based (case-insensitive).
+# Edit this list to fit your definition of “top CS conferences”.
+
+neurips
+nips
+icml
+iclr
+cvpr
+iccv
+eccv
+acl
+emnlp
+naacl
+kdd
+www
+web conference
+sigcomm
+chi
+uist
+siggraph
+aaa i
+aaai
+
+# Security
+usenix security
+ieee symposium on security and privacy
+sp
+s&p
+oakland
+acm ccs
+computer and communications security
+ndss
+network and distributed system security
+raid
+research in attacks intrusions and defenses
+asiaccs
+asia conference on computer and communications security
+eurosp
+euro s&p
+european symposium on security and privacy
+
+# Systems
+sosp
+symposium on operating systems principles
+osdi
+operating systems design and implementation
+nsdi
+networked systems design and implementation
+eurosys
+euro sys
+asplos
+architectural support for programming languages and operating systems
+fast
+file and storage technologies
+usenix annual technical conference
+sigmetrics
+international conference on measurement and modeling of computer systems
+
+# PL / SE (PLSE)
+pldi
+programming language design and implementation
+popl
+principles of programming languages
+oopsla
+object-oriented programming systems languages and applications
+icse
+international conference on software engineering
+fse
+foundations of software engineering
+esec/fse
+ase
+automated software engineering
+issta
+international symposium on software testing and analysis
+saner
+software analysis evolution and reengineering
+msr
+mining software repositories
